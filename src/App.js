@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import imgFlecha from "./assets/arrow-left-long-solid.svg";
-import imgHand from "./assets/save-money.png";
+import imgHand from "./assets/money.png";
 import store from "./assets/tienda.png";
 import axios from "axios";
 import * as myConstClass from "./constant";
